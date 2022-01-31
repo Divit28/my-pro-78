@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+#family_img{
+    width:25%;
+    height: 60%;
+}
+button{
+    font-size:25px;
+    background-color:bisque;
+    border-radius:20%;
+}
